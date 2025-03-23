@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hello, I'm Arnav
-
 ## AI & Software Engineer
 
 <a href="https://arnavjaiswal.com" target="_blank">
