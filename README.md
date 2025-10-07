@@ -17,6 +17,7 @@
 <div align="center">
   
 #### Specializing in AI development and machine learning systems, with a focus on building intelligent and scalable solutions.
+GenAI Product Dev Fellow @Burnes, prev [@Groq '25, @Panasonic '23, @Otsaw '22]
 
 ---
 
