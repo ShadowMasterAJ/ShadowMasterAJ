@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/🚀_Portfolio_Website-arnavjaiswal.com-FF8C00?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000" alt="Website Badge" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavjaiswal) [![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavjaiswal140@gmail.com) \
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavjaiswal) [![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavjaiswal140@gmail.com)
 
 [![View RESUME](https://img.shields.io/badge/📄_Resume-000000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=000000)](https://drive.google.com/file/d/1HME013qBXntgaT-tZ5tjjRsSVT7wx9Je/view?usp=drive_link)
 
