@@ -117,12 +117,4 @@
   <img height="180em" style="border-radius: 25px;" src="https://github-readme-stats.vercel.app/api?username=ShadowMasterAJ&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=000000&title_color=FF8C00&text_color=FF8C00&icon_color=FF8C00" /> <img height="180em" style="border-radius: 25px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowMasterAJ&layout=compact&theme=gruvbox&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,css,php&bg_color=000000&title_color=FF8C00&text_color=FF8C00" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShadowMasterAJ&theme=gruvbox&hide_border=true&background=000000&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideNums=FF8C00&currStreakNum=FF8C00&sideLabels=FF8C00" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShadowMasterAJ&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Followers,Issues" alt="GitHub Trophies" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
