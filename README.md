@@ -9,7 +9,8 @@
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavjaiswal) [![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavjaiswal140@gmail.com) \
-[![Resume](https://img.shields.io/badge/📄_Resume-000000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=000000)](https://drive.google.com/file/d/1HME013qBXntgaT-tZ5tjjRsSVT7wx9Je/view?usp=drive_link)
+
+[![View RESUME](https://img.shields.io/badge/📄_Resume-000000?style=for-the-badge&logo=adobe&logoColor=white&labelColor=000000)](https://drive.google.com/file/d/1HME013qBXntgaT-tZ5tjjRsSVT7wx9Je/view?usp=drive_link)
 
 <img src="https://komarev.com/ghpvc/?username=ShadowMasterAJ&label=Profile%20Views&color=FF8C00&style=for-the-badge" alt="Profile Views" />
 
@@ -21,8 +22,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Specializing+in+AI+development+and+machine+learning+systems;with+a+focus+on+building+intelligent+and+scalable+solutions" alt="Typing SVG" />
 
-💼 **GenAI Product Dev Fellow @Burnes** | prev [@Groq '25, @Panasonic '23, @Otsaw '22]
+### 💼 **GenAI Product Dev Fellow @Burnes**
+#### prev [@Groq '25, @Panasonic '23, @Otsaw '22]
 
+</div>
 ---
 
 </div>
